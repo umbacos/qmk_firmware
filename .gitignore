@@ -89,3 +89,5 @@ __pycache__
 user_song_list.h
 lib/ugfx
 lib/chibios
+lib/chibios
+lib/ugfx
